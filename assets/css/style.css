@@ -1,0 +1,55 @@
+body{
+	background-image: url(../image/dark_embroidery.png)
+}
+
+
+h1,
+#randomNumber,
+#randomStart,
+#playerScore,
+#instructions,
+#playerTotal,
+#pTotal{
+	background-color: teal;
+	color: #ffd11a;
+	padding: 20px;
+
+}
+
+
+h1{
+	text-align: center;
+}
+
+.crystal-image{
+	border-color: #ffd11a;
+	border-width: 5px;
+}
+
+#randomNumber{
+	margin: 20px;
+	font-size: 15px;
+	height: 175px;
+}
+
+#randomStart{
+	font-size: 30px;
+}
+
+#playerScore{
+	margin: 20px;
+	height: 175px;
+}
+
+#instructions{
+	margin: 10px;
+}
+
+#pTotal{
+	margin: 20px;	
+	font-size: 15px;
+	height: 175px;
+}
+#playerTotal{
+	font-size: 30px;
+}
